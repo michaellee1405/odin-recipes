@@ -29,7 +29,7 @@ ul, ol {
     display: block;
     margin: 0px auto;
     width: auto;
-    height: 700px;
+    height: 500px;
     border: 4px;
     border-style: solid;
     border-radius: 16px;
@@ -42,4 +42,5 @@ ul, ol {
     border-style: solid;
     border-radius: 16px;
     margin: 24px 36px;
+
 }
