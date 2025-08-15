@@ -9,12 +9,25 @@
 body {
     background-color: #F4F5FC;
 }
+
+a{
+    color: #243EFF;
+    font-weight: 900;
+    font-size: 20px;
+}
+
 h1 {
 font-size: 61.04px;
+background-color: #070B30;
+color: #F4F5FC;
+margin: 0 auto 24px auto;
+text-align: center;
+padding: 4px;
 
 }
 h2 {
-    font-size: 48.83px;
+    font-size: 31.25px;
+    color: #243EFF;
 }
 
 p {
@@ -23,6 +36,8 @@ p {
 
 ul, ol {
     margin: 8px 24px;
+    font-size: 20px;
+    font-weight: 700;
 }
 
 .recipe-featured-image{
@@ -37,6 +52,7 @@ ul, ol {
 
 .recipe-description-container, .recipe-ingredients-container, .recipe-steps-container{
     background-color: white;
+    padding: 24px 36px;
     border: 4px;
       border-color: #243EFF;
     border-style: solid;
